@@ -1,0 +1,1 @@
+Add 36 photos named 1.jpg, 2.jpg, ... 36.jpg here. All .jpg files can be JPEG images.
